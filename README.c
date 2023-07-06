@@ -1,4 +1,4 @@
-#include <reg51.h>
+#includ <reg51.h>
 #define msec 1
 
 sbit s1=P3^2;//Input pins for four candidates
