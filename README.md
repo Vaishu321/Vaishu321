@@ -280,10 +280,8 @@ Trivandrum, Kerala
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Vaishu321-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Vaishu321)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Vaishu321-2F8552?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vaishu321)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Vaishu321-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Vaishu321)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Vaishu321-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Vaishu321)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Vaishnavi_G_N-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vaishnavi_G_N/)
+
 
 </div>
 
