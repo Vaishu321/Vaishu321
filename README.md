@@ -339,7 +339,6 @@ Open To:
 [![Email](https://img.shields.io/badge/Email-vaishgurunath%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishgurunath@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi%20G%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-g-n-9245ab276)
 [![GitHub](https://img.shields.io/badge/GitHub-Vaishu321-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishu321)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209562750329-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919562750329)
 
 </div>
 
