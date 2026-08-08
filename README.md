@@ -1,178 +1,366 @@
 <div align="center">
 
-# Hi! I'm Vaishnavi 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Vaishnavi%20G%20N&desc=Associate%20Software%20Engineer%20%7C%20AI%2FML%20Specialist&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header" width="100%"/>
 
-**Full-Stack Software Engineer | AI/ML Specialist | System Design Enthusiast**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Backend+Engineer;AI%2FML+Enthusiast;Scalable+Systems+Builder)](https://github.com/Vaishu321)
 
-[LinkedIn](https://www.linkedin.com/in/vaishu321) • [GitHub](https://github.com/Vaishu321) • [LeetCode](https://leetcode.com/Vaishu321)
+<br/>
 
-📍 **Bangalore, India** | 🎓 **B.Sc. Computer Science**
+[![BTech](https://img.shields.io/badge/BTech-Electronics%20%26%20Communication-667eea?style=for-the-badge&logoColor=white)](https://gec.ac.in)
+[![GEC Barton Hill](https://img.shields.io/badge/GEC-Barton%20Hill-667eea?style=for-the-badge&logoColor=white)](https://gecbh.ac.in)
+[![CGPA](https://img.shields.io/badge/CGPA-8.3%2F10-667eea?style=for-the-badge&logoColor=white)](https://gec.ac.in)
+
+[![Location](https://img.shields.io/badge/📍-Kerala%2C%20India-667eea?style=for-the-badge&logoColor=white)](https://www.google.com/maps/place/Kerala/)
+[![Experience](https://img.shields.io/badge/👨‍💼-Associate%20Software%20Engineer%20at%20EY-667eea?style=for-the-badge&logoColor=white)](https://www.ey.com)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=flat-square&logo=github&logoColor=white)](https://vaishu321.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-667eea?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-g-n-9245ab276)
+[![Email](https://img.shields.io/badge/Email-Contact-667eea?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishgurunath@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/Vaishu321)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vaishu321&color=667eea&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/Vaishu321?style=flat-square&color=667eea)
+[![GitHub Stars](https://img.shields.io/github/stars/Vaishu321?style=flat-square&color=667eea)](https://github.com/Vaishu321?tab=stars)
 
 </div>
 
 ---
 
-## About Me
+## 💼 About Me
 
-I'm a passionate full-stack developer and software engineer with deep expertise in **AI/ML, system design, and production engineering**. I enjoy creating scalable web applications and contributing to open-source projects.
+I'm an **Associate Software Engineer at EY Global Delivery Services** with a strong foundation in **backend development, full-stack engineering, and AI/ML solutions**. My career is built on designing scalable systems, implementing enterprise-grade architectures, and delivering high-quality software that drives business impact.
 
-I focus on building:
-- **Reliable, maintainable software** combining algorithmic rigor with production engineering practices
-- **Enterprise-grade systems** with emphasis on performance, scalability, and observability
-- **AI/ML solutions** from model development to deployment and operations
+**Engineering Philosophy:**
+- **Reliability First**: Writing maintainable, well-tested code with emphasis on production stability
+- **Scalable Architecture**: Building systems that grow with demand while maintaining performance
+- **AI-Driven Development**: Leveraging AI tools and ML techniques to accelerate development and unlock new capabilities
+- **Enterprise Quality**: Following FAANG-level standards for testing, CI/CD, and code quality
 
-### Core Competencies
-- **Software Engineering**: Data structures & algorithms, system design, clean architecture, testing, CI/CD
-- **AI/ML**: LLM fine-tuning, RAG systems, model deployment, MLOps, computer vision, NLP
-- **Full-Stack Development**: React/TypeScript frontends, Python/Node.js backends, PostgreSQL, high-throughput APIs
+**Key Strengths:**
+- Backend API development with Python, Flask, FastAPI, and Django
+- Micro-frontend architecture and Next.js full-stack development
+- AI feature testing and AI-assisted development workflows
+- Data engineering with Pandas and PySpark
+- Database design, query optimization, and system scaling
+- Test automation and CI/CD pipeline development
 
----
-
-## Tech Stack
-
-**Languages**: TypeScript, Python, Go, JavaScript, SQL
-
-**Frontend**: React, Next.js, Tailwind CSS, Storybook, Jest
-
-**Backend & Databases**: Node.js, Go, gRPC/REST APIs, PostgreSQL, Redis, Kafka
-
-**Cloud & DevOps**: AWS (ECS/EKS/Lambda), Terraform, Docker, Kubernetes, Prometheus, Grafana, OpenTelemetry
+**Open To:**
+- Backend & Full-Stack Engineering Roles
+- AI/ML Integration Positions
+- Technical Leadership & Mentoring
+- Open-Source Collaborations
 
 ---
 
-## AI/ML Expertise
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages & Core Skills</b></summary>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Backend & Databases</b></summary>
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-667eea?style=flat-square&logo=postman&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Data Engineering & DevOps</b></summary>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-667eea?style=flat-square&logo=githubactions&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Tools & Platforms</b></summary>
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-667eea?style=flat-square&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E98CD?style=flat-square&logo=sonarqube&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+
+</details>
+
+---
+
+## 🤖 AI/ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Large Language Models (LLMs) | Expert | Fine-tuning, RAG, prompt engineering, evaluation metrics |
-| Computer Vision | Advanced | CNNs, transfer learning, detection & segmentation, ONNX export |
-| Natural Language Processing | Expert | Transformers, tokenization, semantic search, NER, classification |
-| MLOps & Deployment | Advanced | Model CI/CD, inference scaling, monitoring, A/B testing, cost optimization |
-| Reinforcement Learning | Intermediate | Simulation-based training, reward shaping, policy optimization |
+| **AI Feature Testing** | Expert | AI-powered feature validation, chatbot testing, LLM response evaluation |
+| **Natural Language Processing** | Advanced | Text processing, semantic analysis, document understanding, AI-generated content handling |
+| **Data Engineering** | Advanced | Data cleaning, transformation, pipeline development, structured & semi-structured data |
+| **Machine Learning Fundamentals** | Advanced | Supervised learning, feature engineering, model evaluation, practical ML applications |
+| **AI-Assisted Development** | Expert | GitHub Copilot, code generation, documentation automation, rapid prototyping |
 
 ---
 
-## Professional Experience
+## 💫 Featured Projects
 
-### Senior Software Engineer — Enterprise AI Platform
-**Tech Enterprise Inc.** • Jan 2021 – Present
+<details>
+<summary><b>🎯 EY Impact Platform - AI Feature Testing & Backend Enhancement</b></summary>
 
-- Led design and delivery of LLM inference orchestration platform serving cross-functional product teams
-- Built autoscaling, caching, and cost-optimization features reducing inference spend by 40%
-- Implemented production observability stack (OpenTelemetry, Grafana, SLO-driven alerts)
-- Mentored engineers on system design, testing strategies, and release best practices
+**Platform for enterprise knowledge management and AI-powered insights**
 
-**Skills**: TypeScript, Go, Kubernetes, AWS, Terraform, LLMs, MLOps
+| Metric | Details |
+|---|---|
+| **Tech Stack** | Python, FastAPI, .NET, React, PostgreSQL, GitHub Copilot |
+| **Scale** | Enterprise-grade with mission-critical reliability requirements |
+| **Impact** | Test coverage: 13% → 95% \| Code quality improved via SonarQube |
+| **Performance** | Sub-100ms API response times, optimized database queries |
+| **Security** | JWT authentication, secure API communication, access control |
+
+**Key Achievements:**
+- 🚀 **Increased test coverage from 13% to 95%**, dramatically improving release stability and code quality
+- 🔧 Built and enhanced backend APIs using FastAPI with ORM integration and SQL database operations
+- 🤖 Contributed to AI-powered features across **Knowledge Chat**, **Impact AI**, and **Knowledge Hub**
+- 🛡️ Identified and resolved critical security hotspots and reliability issues via SonarQube analysis
+- 📊 Reduced technical debt through systematic code quality improvements
+- 🔄 Developed CI/CD pipelines using YAML configuration for automated deployments
+- 👥 Collaborated with developers, testers, and stakeholders for end-to-end problem resolution
+- 🧪 Performed comprehensive UAT and production testing
+
+**Repository**: [Available on GitHub](https://github.com/Vaishu321)
+
+</details>
+
+<details>
+<summary><b>💬 Tech Factory GPS Chatbot - Micro-Frontend Architecture</b></summary>
+
+**Next.js-based AI chatbot with micro-frontend architecture and advanced feedback systems**
+
+| Metric | Details |
+|---|---|
+| **Tech Stack** | Next.js, React, Module Federation, JWT, FastAPI Backend |
+| **Architecture** | Micro-frontend with dynamic module loading and independent deployment |
+| **Impact** | Seamless user experience with enterprise-grade security and reliability |
+| **Performance** | Fast load times with optimized component bundling |
+| **Security** | JWT-based authentication, secure inter-service communication |
+
+**Key Achievements:**
+- 🏗️ **Architected micro-frontend solution** using Module Federation for independent feature deployment
+- 🔐 Implemented **JWT-based authentication** with secure session management and access tokens
+- 💡 Built **Regenerate Response** and **Like/Dislike Feedback** features for improved UX
+- 📚 Integrated **citations, source references, and document downloads** for AI responses
+- 🔗 Enabled **chunk-level data viewing** for transparent AI-generated content
+- 🤝 Collaborated with AI, frontend, and backend teams across multiple sprints
+- 🐛 Fixed critical production issues across authentication, API communication, and integration layers
+- ⚡ Optimized frontend-backend workflows for reliability and performance
+
+**Repository**: [Available on GitHub](https://github.com/Vaishu321)
+
+</details>
+
+<details>
+<summary><b>🧪 Backend & Data Engineering - Core Skills</b></summary>
+
+**Comprehensive backend development and data engineering expertise**
+
+| Metric | Details |
+|---|---|
+| **Tech Stack** | Python, Flask, Django, FastAPI, Pandas, PySpark, PostgreSQL |
+| **Focus Areas** | RESTful API design, ORM integration, data transformation, pipeline automation |
+| **Applications** | CRUD operations, database optimization, data cleaning, analytical queries |
+| **Impact** | Scalable backend systems supporting millions of operations |
+
+**Key Achievements:**
+- 🛠️ Built **production-grade backend APIs** with Flask, Django, and FastAPI
+- 📊 Applied **Pandas and PySpark** for large-scale data processing and transformation
+- 🗄️ Designed robust **database schemas** with SQL optimization and query tuning
+- 🔄 Implemented **ORM patterns** for efficient database interactions
+- 📈 Processed **structured and semi-structured data** with advanced transformation logic
+- 🚀 Developed **scalable data pipelines** for analytics and reporting
+
+**Repository**: [Available on GitHub](https://github.com/Vaishu321)
+
+</details>
 
 ---
 
-### Software Engineer — Core Platforms
-**ScaleBridge Solutions** • Aug 2018 – Dec 2020
+## 👨‍💼 Professional Experience
 
-- Developed high-throughput APIs and event-driven microservices processing millions of daily events
-- Architected database sharding strategies and query optimization for real-time analytics
-- Led OAuth2 and SAML integration work with multiple identity providers
+### **Associate Software Engineer**
+**EY Global Delivery Services (EY GDS)** • Oct 2025 – Present  
+Trivandrum, Kerala
 
-**Skills**: Node.js, PostgreSQL, Kafka, Redis, Docker
+- 📈 **Increased .NET API test coverage from 13% to 95%**, improving release stability and strengthening enterprise-grade code quality
+- 🐍 **Completed advanced Python training** covering data structures, OOP, exception handling, file operations, and modular programming
+- 🧠 **Built backend applications** using Flask and Django with ORM integration, CRUD operations, and SQL database design
+- 📊 **Applied Pandas and PySpark** for data cleaning, transformation, and analysis of structured/semi-structured datasets
+- 🤖 **Contributed to AI feature testing** and integration across enterprise AI platforms
+- 🔍 **Resolved critical reliability issues** through SonarQube analysis, reducing technical debt
+- 🏗️ **Implemented micro-frontend integrations** using Module Federation for independent deployment
+- 🔐 **Developed secure authentication workflows** with JWT-based session management
+- 🤝 **Collaborated cross-functionally** with developers, testers, and product teams
+- 🐛 **Performed root cause analysis** across frontend, backend, and integration layers
+- 🚀 **Leveraged GitHub Copilot** for accelerated development and AI-assisted documentation
 
----
+**Skills**: Python • Flask • Django • FastAPI • React • Next.js • PostgreSQL • Pandas • PySpark • CI/CD • SonarQube • GitHub Copilot • JWT Authentication
 
-## Projects
-
-### SignalScale — Enterprise LLM Inference Platform
-Production-grade inference orchestration platform for high-availability LLM deployments with autoscaling, model caching, request batching, and multi-tenant isolation.
-
-**Tech Stack**: TypeScript, Go, Redis, Kubernetes, AWS  
-**Scale**: 100k+ requests/day | **Performance**: <200ms P95  
-**Impact**: Reduced inference costs by 45%
-
-**Key Contributions**:
-- Hybrid autoscaling combining request-based and utilization-based triggers
-- LRU caching at model and token levels
-- Circuit breakers and graceful degradation patterns
+**Current Focus**: Backend optimization, AI integration testing, data engineering patterns, enterprise system design
 
 ---
 
-### AtlasCI — ML Pipeline CI/CD Platform
-CI/CD orchestration tool specializing in reproducible ML pipelines with artifact lineage and built-in model validation.
-
-**Tech Stack**: Python, Docker, Airflow, Terraform  
-**Scale**: 500+ pipelines/month | **Performance**: 12min average build time  
-**Impact**: 3x improvement in deployment velocity
-
-**Key Contributions**:
-- Artifact immutability and signed metadata
-- Automated drift detection
-- Deterministic rollout policies with metrics-driven gates
-
----
-
-### PrismUI — Design System & Component Library
-Scalable component system with accessibility-first primitives, dark-mode theming, and design tokens for enterprise products.
-
-**Tech Stack**: React, TypeScript, Storybook, Tailwind CSS  
-**Scale**: 12+ consumer applications | **Performance**: 60ms JS bootstrap  
-**Impact**: Consistent UX across product suite
-
-**Key Contributions**:
-- Component API design with strict typing
-- Visual regression testing framework
-- Ready-to-use, well-documented component patterns
-
----
-
-## Achievements & Recognition
+## 🏆 Achievements & Recognition
 
 | Recognition | Details |
 |---|---|
-| **Engineering Award** | Delivered critical platform migration under tight SLA constraints |
-| **Open Source Contributor** | Maintainer of two widely-used internal libraries with public adoption |
-| **Conference Speaker** | Presented on scalable LLM deployment at industry conferences |
+| **Test Coverage Transformation** | Increased .NET API test coverage from 13% to 95%, demonstrating commitment to code quality |
+| **Production Issue Resolution** | Identified and fixed critical reliability issues through systematic analysis and debugging |
+| **Technical Excellence** | Improved code quality metrics via SonarQube, reducing security hotspots and technical debt |
+| **Cross-Team Collaboration** | Successfully collaborated with AI, frontend, backend, and product teams to deliver enterprise features |
+| **AI-Assisted Development** | Early adopter of GitHub Copilot for code generation, testing, and documentation acceleration |
 
 ---
 
-## Certifications
+## 📜 Certifications & Learning
 
-- **AWS Certified Solutions Architect – Associate**
-- **AWS Certified Developer Associate**
-- **Oracle Cloud Infrastructure Architect**
-- **NPTEL Deep Learning Certification**
-- **Cisco CCNA**
+<details open>
+<summary><b>2026 Certifications</b></summary>
+
+[![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/ai-900)
+[![EY Applied AI](https://img.shields.io/badge/EY-Applied%20AI%20(Bronze)-667eea?style=flat-square&logoColor=white)](https://www.ey.com)
+[![GitHub Copilot](https://img.shields.io/badge/Microsoft-GitHub%20Copilot%20Certification-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+
+</details>
+
+<details open>
+<summary><b>2025 Certifications & Courses</b></summary>
+
+[![AI Fundamentals](https://img.shields.io/badge/IBM-AI%20Fundamentals-0F62FE?style=flat-square&logo=ibm&logoColor=white)](https://www.ibm.com)
+[![Python Data Science](https://img.shields.io/badge/Udemy-Python%20Data%20Science-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://udemy.com)
+[![IoT & Python](https://img.shields.io/badge/Keltron-IoT%20%26%20Python%20Internship-667eea?style=flat-square&logoColor=white)](https://keltron.in)
+
+</details>
+
+<details open>
+<summary><b>2023-2024 Training & Workshops</b></summary>
+
+[![Product Design AR](https://img.shields.io/badge/NIT%20Calicut-Product%20Design%20Using%20AR-FF6B35?style=flat-square&logoColor=white)](https://www.nitc.ac.in)
+[![Telecom Technologies](https://img.shields.io/badge/BSNL-Telecom%20Technologies%20Internship-009900?style=flat-square&logoColor=white)](https://www.bsnl.co.in)
+
+</details>
 
 ---
 
-## Coding Profiles
+## 💻 Coding Profiles
 
-- [LeetCode](https://leetcode.com/Vaishu321)
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/Vaishu321)
-- [HackerRank](https://www.hackerrank.com/Vaishu321)
-- [CodeChef](https://www.codechef.com/users/Vaishu321)
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Vaishu321-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Vaishu321)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Vaishu321-2F8552?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vaishu321)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Vaishu321-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Vaishu321)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Vaishu321-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Vaishu321)
+
+</div>
 
 ---
 
-## What I'm Currently Working On
+## 📊 GitHub Analytics
 
-**Learning**:
-- Advanced LLM safety and alignment techniques
-- Retrieval systems and vector databases (FAISS, Milvus)
+<div align="center">
 
-**Building**:
-- Scalable inference orchestration solutions
-- Reusable ML CI/CD patterns and frameworks
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishu321&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)](https://github.com/Vaishu321)
 
-**Exploring**:
-- LLM + Retrieval hybrid architectures
-- Cost-efficient inference at scale
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vaishu321&theme=midnight-purple&hide_border=true)](https://github.com/Vaishu321)
 
-**Open To**:
-- Senior engineering roles (AI/ML, Platform, Backend)
-- Technical leadership and mentoring opportunities
-- Open-source collaborations and enterprise integrations
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishu321&theme=midnight-purple&layout=compact&hide_border=true)](https://github.com/Vaishu321)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vaishu321&theme=dark&column=7&no-bg=true&row=1)](https://github.com/Vaishu321)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced backend architecture patterns
+  - Data engineering at scale with PySpark
+  - AI/ML model deployment and monitoring
+  - System design and distributed systems
+
+Building:
+  - High-performance RESTful APIs
+  - Scalable data pipelines
+  - Enterprise-grade full-stack applications
+  - AI-integrated backend solutions
+
+Exploring:
+  - LLM fine-tuning and RAG systems
+  - Vector databases and semantic search
+  - MLOps best practices
+  - Advanced observability patterns
+
+Open To:
+  - Backend & Full-Stack Engineering Roles
+  - AI/ML Integration Positions
+  - Data Engineering Opportunities
+  - Technical Leadership & Mentoring
+  - Open-Source Collaborations
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-vaishgurunath%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishgurunath@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi%20G%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-g-n-9245ab276)
+[![GitHub](https://img.shields.io/badge/GitHub-Vaishu321-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishu321)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209562750329-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919562750329)
+
+</div>
 
 ---
 
 <div align="center">
 
-Made with ❤️ by Vaishnavi
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=100&section=footer&text=Building%20Scalable%20Systems%20%7C%20Engineering%20Excellence&fontSize=18&fontColor=ffffff)
+
+**"Code is not just about functionality; it's about building systems that inspire confidence and drive impact."**
 
 </div>
