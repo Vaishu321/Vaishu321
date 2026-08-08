@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Vaishnavi%20G%20N&desc=Associate%20Software%20Engineer%20%7C%20AI%2FML%20Specialist&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=300&section=header&text=Vaishnavi%20G%20N&desc=Associate%20Software%20Engineer%20%7C%20AI%2FML%20Specialist&fontSize=45&[...]
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Backend+Engineer;AI%2FML+Enthusiast;Scalable+Systems+Builder)](https://github.com/Vaishu321)
+<br/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Backend+Engineer;AI%2[...]
 
 <br/>
 
@@ -32,7 +35,7 @@
 
 ## 💼 About Me
 
-I'm an **Associate Software Engineer at EY Global Delivery Services** with a strong foundation in **backend development, full-stack engineering, and AI/ML solutions**. My career is built on designing scalable systems, implementing enterprise-grade architectures, and delivering high-quality software that drives business impact.
+I'm an **Associate Software Engineer at EY Global Delivery Services** with a strong foundation in **backend development, full-stack engineering, and AI/ML solutions**. My career is built on designing [...]
 
 **Engineering Philosophy:**
 - **Reliability First**: Writing maintainable, well-tested code with emphasis on production stability
@@ -251,7 +254,7 @@ Trivandrum, Kerala
 <details open>
 <summary><b>2026 Certifications</b></summary>
 
-[![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/ai-900)
+[![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us[...]
 [![EY Applied AI](https://img.shields.io/badge/EY-Applied%20AI%20(Bronze)-667eea?style=flat-square&logoColor=white)](https://www.ey.com)
 [![GitHub Copilot](https://img.shields.io/badge/Microsoft-GitHub%20Copilot%20Certification-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
 
@@ -357,7 +360,7 @@ Open To:
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=100&section=footer&text=Building%20Scalable%20Systems%20%7C%20Engineering%20Excellence&fontSize=18&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=100&section=footer&text=Building%20Scalable%20Systems%20%7C%20Engineering%20Excellence&fontSize=18&fontColor=ffffff[...]
 
 **"Code is not just about functionality; it's about building systems that inspire confidence and drive impact."**
 
