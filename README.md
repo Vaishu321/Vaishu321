@@ -36,17 +36,17 @@
 ## About
 
 <p align="center">
-  <strong>Senior Software Engineer</strong> with deep expertise in AI/ML, full-stack engineering, and product-driven development. I design and deliver enterprise-grade systems focusing on performance, scalability, and operational excellence.
+  <strong>Software Engineer</strong> with deep expertise in AI/ML, full-stack engineering, and product-driven development. I design and deliver enterprise-grade systems focusing on performance, scalability, and operational excellence.
 </p>
 
 - Professional engineering-focused biography: I build reliable, maintainable software for high-impact products, combining algorithmic rigor with production engineering practices.
-- Strong emphasis on software engineering: system design, clean architecture, testing, observability, and CI/CD.
+- Strong emphasis on software engineering: DSA, system design, clean architecture, testing, observability, and CI/CD.
 - AI/ML expertise: model development, fine-tuning, deployment, MLOps, LLMs, and generation pipelines.
-- Full stack development: React/TypeScript frontends, Node.js/Go backends, PostgreSQL, and high-throughput APIs.
+- Full stack development: React/TypeScript frontends, Python backends, PostgreSQL, and high-throughput APIs.
 - Product engineering mindset: measurable outcomes, user-centric features, and data-informed prioritization.
 
 Open To:
-- Senior engineering roles (AI/ML, Full Stack, Backend)
+- Engineering roles (AI/ML, Full Stack, Backend)
 - Technical leadership and mentoring
 - Open-source contributions and enterprise integrations
 
