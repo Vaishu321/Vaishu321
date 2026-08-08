@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=300&section=header&text=Vaishnavi%20G%20N&desc=Associate%20Software%20Engineer%20%7C%20AI%2FML%20Specialist&fontSize=45&fontAlignY=50&desc_align=51"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=300&section=header&text=Vaishnavi%20G%20N&desc=Associate%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&fontSize=45&fontAlignY=50&desc_align=51"/>
 
 <br/>
 <br/>
@@ -293,23 +293,11 @@ Trivandrum, Kerala
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishu321&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)](https://github.com/Vaishu321)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vaishu321&theme=midnight-purple&hide_border=true)](https://github.com/Vaishu321)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishu321&theme=midnight-purple&layout=compact&hide_border=true)](https://github.com/Vaishu321)
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vaishu321&theme=dark&column=7&no-bg=true&row=1)](https://github.com/Vaishu321)
-
-</div>
 
 ---
 
@@ -359,7 +347,7 @@ Open To:
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=100&section=footer&text=Building%20Scalable%20Systems%20%7C%20Engineering%20Excellence&fontSize=18&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=100&section=footer&text=Code%20-%20Learn%20-%20Share%20-%20Repeat&fontSize=18&fontColor=ffffff)
 
 **"Code is not just about functionality; it's about building systems that inspire confidence and drive impact."**
 
