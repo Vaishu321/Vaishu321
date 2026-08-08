@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Backend+Engineer;AI%2FML+Specialist)](https://github.com/Vaishu321)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Associate+Software+Engineer;AI%2FML+Enthusiast)](https://github.com/Vaishu321)
 
 <br/>
 
