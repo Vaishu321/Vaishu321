@@ -289,18 +289,6 @@ Trivandrum, Kerala
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vaishu321&theme=midnight-purple&hide_border=true)](https://github.com/Vaishu321)
-
-
-</div>
-
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
